@@ -1,11 +1,3 @@
-@import url(./section-title/section-title.css);
-@import url(./section-subtitle/section-subtitle.css);
-@import url(./__cards/technics__cards.css);
-@import url(./__cards-description/technics__cards-description.css);
-@import url(./__cards-image/technics__cards-image.css);
-@import url(./__cards-item/technics__cards-item.css);
-@import url(./__cards-title/technics__cards-title.css);
-
 .technics {
   width: 80%;
   margin: 0 auto;
