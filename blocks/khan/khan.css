@@ -1,9 +1,5 @@
 .khan {
-display: flex;
-background-color: #f2f2f2;
-position: relative;
-bottom: -200px;
+  display: flex;
+  background-color: #f2f2f2;
+  position: relative;
 }
-
-
-

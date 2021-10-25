@@ -1,0 +1,14 @@
+.opacity {
+  -moz-transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.opacity:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
