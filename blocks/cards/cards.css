@@ -1,8 +1,7 @@
 .cards {
   width: 920px;
   display: flex;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   margin: auto;
-  padding-left: 0;
+  padding: 0;
 }
-
